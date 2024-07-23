@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "4008",
+      "cityName": "Winnipeg",
+      "country": "Canada",
+      "date": "2024-07-23T16:41:30.186Z",
+      "notes": "Home",
+      "emoji": "🇨🇦",
+      "position": {
+        "lat": "49.809631563563094",
+        "lng": "-97.14111328125001"
+      }
+    },
+    {
+      "id": "6c08",
+      "cityName": "Almeida",
+      "country": "Portugal",
+      "date": "2024-07-23T16:47:04.094Z",
+      "notes": "home away from home",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "40.757920208794026",
+        "lng": "-6.867828369140626"
+      }
     }
   ]
 }
